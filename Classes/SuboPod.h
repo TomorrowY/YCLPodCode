@@ -1,8 +1,9 @@
 
+
 #import <Foundation/Foundation.h>
 
-@@interface SuboPod : NSObject
-
+@interface SuboPod : NSObject
 - (void) createCode;
+
 
 @end
